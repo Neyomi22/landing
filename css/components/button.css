@@ -1,0 +1,13 @@
+.btn-apply{
+  display: inline-block;
+  background-color:#1EDD88;
+  text-decoration: none;
+  padding: 16px 36px;
+  color:white;
+  border-radius: 50px;
+}
+
+/* .btn-apply:hover {
+  background-color: #34a245;
+  color: white;
+} */
